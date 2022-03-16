@@ -1,0 +1,20 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.ConfirmDialog.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Form1.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\bin\Debug\CustomDialogs.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.ConfirmDialog.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Form1.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\CustomDialogs\CustomDialogs\obj\Debug\CustomDialogs.csproj.GenerateResource.Cache

@@ -1,0 +1,43 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\bin\Debug\Data.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\bin\Debug\Data.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\bin\Debug\Data.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.AddProductForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.Form1.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.pdb
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\bin\Debug\Data.exe.config
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.exe
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\07.Data Binding\Demos\CS\Data\Data\obj\Debug\Data.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\bin\Debug\Data.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\bin\Debug\Data.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\bin\Debug\Data.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.AddProductForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\08.Binding DataSets\Demos\CS\Data\Data\obj\Debug\Data.DataForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\bin\Debug\Data.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.AddProductForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.DataForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\bin\Debug\Data.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\09.Binding Linq\Demos\CS\Data\Data\bin\Debug\Data.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\bin\Debug\Data.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\bin\Debug\Data.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\bin\Debug\Data.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.AddProductForm.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.DataForm.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\8-windows-forms-introduction-with-visual-basic-m8-linq-exercise-files\CS\Data\Data\obj\Debug\Data.csproj.GenerateResource.Cache

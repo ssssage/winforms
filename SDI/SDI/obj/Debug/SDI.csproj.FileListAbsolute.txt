@@ -1,0 +1,21 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\bin\Debug\SDI.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\bin\Debug\SDI.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\bin\Debug\SDI.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.DocForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.pdb
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\bin\Debug\SDI.exe.config
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.exe
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\05.SDI\Demos\CS\SDI\SDI\obj\Debug\SDI.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\bin\Debug\SDI.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\obj\Debug\SDI.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\obj\Debug\SDI.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\obj\Debug\SDI.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\obj\Debug\SDI.DocForm.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\obj\Debug\SDI.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\obj\Debug\SDI.csproj.GenerateResource.Cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\bin\Debug\SDI.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\4-windows-forms-introduction-with-visual-basic-m4-sdi-exercise-files\CS\SDI\SDI\bin\Debug\SDI.pdb

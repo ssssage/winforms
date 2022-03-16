@@ -1,0 +1,9 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Lifecycle\Lifecycle\bin\Debug\Lifecycle.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\bin\Debug\Lifecycle.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\bin\Debug\Lifecycle.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\bin\Debug\Lifecycle.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\obj\Debug\Lifecycle.Form1.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\obj\Debug\Lifecycle.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\obj\Debug\Lifecycle.csproj.GenerateResource.Cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\obj\Debug\Lifecycle.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Lifecycle\Lifecycle\obj\Debug\Lifecycle.pdb

@@ -1,0 +1,21 @@
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\bin\Debug\Designer.exe.config
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\bin\Debug\Designer.exe
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\bin\Debug\Designer.pdb
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.MyForm.resources
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.Properties.Resources.resources
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.csproj.GenerateResource.Cache
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.exe
+D:\Users\Rob Windsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\bin\Debug\Designer.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\02.Controls Events\Demos\CS\Designer\Designer\obj\Debug\Designer.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\bin\Debug\Designer.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\obj\Debug\Designer.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\obj\Debug\Designer.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\bin\Debug\Designer.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\bin\Debug\Designer.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\obj\Debug\Designer.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\obj\Debug\Designer.MyForm.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\obj\Debug\Designer.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\1-windows-forms-introduction-with-visual-basic-m1-forms1-exercise-files\CS\Designer\Designer\obj\Debug\Designer.csproj.GenerateResource.Cache

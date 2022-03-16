@@ -1,0 +1,20 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\bin\Debug\UserControls.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\bin\Debug\UserControls.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\bin\Debug\UserControls.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.Form1.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.PersonControl.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\UserControls\UserControls\obj\Debug\UserControls.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\bin\Debug\UserControls.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\bin\Debug\UserControls.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\bin\Debug\UserControls.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.Form1.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.PersonControl.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\UserControls\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache

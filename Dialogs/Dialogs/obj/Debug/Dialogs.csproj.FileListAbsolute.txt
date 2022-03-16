@@ -1,0 +1,18 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\obj\Debug\Dialogs.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\03.Forms 2\Demos\CS\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\bin\Debug\Dialogs.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\obj\Debug\Dialogs.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\obj\Debug\Dialogs.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\bin\Debug\Dialogs.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\bin\Debug\Dialogs.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\obj\Debug\Dialogs.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\obj\Debug\Dialogs.Form1.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\obj\Debug\Dialogs.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\2-windows-forms-introduction-with-visual-basic-m2-forms2-exercise-files\CS\Dialogs\Dialogs\obj\Debug\Dialogs.csproj.GenerateResource.Cache

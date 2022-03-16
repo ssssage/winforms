@@ -1,0 +1,20 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\bin\Debug\MDI.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.ChildForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.MainForm.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\04.MDI\Demos\CS\MDI\MDI\obj\Debug\MDI.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\bin\Debug\MDI.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\bin\Debug\MDI.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\bin\Debug\MDI.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.ChildForm.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.MainForm.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\3-windows-forms-introduction-with-visual-basic-m3-mdi-exercise-files\CS\MDI\MDI\obj\Debug\MDI.csproj.GenerateResource.Cache

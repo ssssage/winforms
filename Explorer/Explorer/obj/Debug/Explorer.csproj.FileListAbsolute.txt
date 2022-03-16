@@ -1,0 +1,18 @@
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\bin\Debug\Explorer.exe.config
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\bin\Debug\Explorer.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\bin\Debug\Explorer.pdb
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\obj\Debug\Explorer.csprojResolveAssemblyReference.cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\obj\Debug\Explorer.Form1.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.Cache
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\obj\Debug\Explorer.exe
+C:\Users\robwindsor\Dropbox\Private\Pluralsight\Course\Visual Basic\Windows Forms\06.Explorer\Demos\CS\Explorer\Explorer\obj\Debug\Explorer.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\bin\Debug\Explorer.exe.config
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\obj\Debug\Explorer.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\obj\Debug\Explorer.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\bin\Debug\Explorer.exe
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\bin\Debug\Explorer.pdb
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\obj\Debug\Explorer.csprojResolveAssemblyReference.cache
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\obj\Debug\Explorer.Form1.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\obj\Debug\Explorer.Properties.Resources.resources
+D:\Users\Rob Windsor\Downloads\windows-forms-introduction-with-visual-basic\5-windows-forms-introduction-with-visual-basic-m5-explorer-exercise-files\CS\Explorer\Explorer\obj\Debug\Explorer.csproj.GenerateResource.Cache
